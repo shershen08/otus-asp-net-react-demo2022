@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.border {
+  padding: 20px;
+  border: 1px solid red;
+}
+.blue {
+  border: 2px solid blue;
+}
 
 .App-logo {
   height: 40vmin;
